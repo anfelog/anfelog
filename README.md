@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Felipe</h1>
 <h3 align="center">Profesional bilingüe con más de 5 años de experiencia en la coordinación de logística de cargas y envios y un enfoque sólido en el análisis de datos. Mi trayectoria se basa en transformar grandes volúmenes de información en decisiones estratégicas.</h3>
 
-- 🔭 I’m currently working on **NBA Statvision.**
+- 🔭 I’m currently working on [NBA Statvision.](https://github.com/ferroblesmdq12/NBA-StatVision/tree/Feli/filtradoArchivos)
 
 - 🌱 I’m currently learning **Java Script, Prompts**
 
