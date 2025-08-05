@@ -1,70 +1,48 @@
 ¡Hola! 👋 Soy Andrés Felipe
+Profesional bilingüe con más de 5 años de experiencia en logística y análisis de datos. Mi pasión es transformar datos complejos en soluciones estratégicas que optimicen procesos y mejoren la eficiencia operativa.
 
-Soy un profesional bilingüe con más de 5 años de experiencia en la coordinación de logística y un fuerte enfoque en el análisis de datos. Mi pasión es transformar datos complejos en soluciones estratégicas que optimicen procesos, mejoren la eficiencia operativa y generen un valor significativo para las organizaciones.
+Como Analista de Datos, mis habilidades se centran en:
 
-Como Analista de Datos, utilizo mis conocimientos en programación y visualización para:
+Identificar tendencias y patrones en grandes conjuntos de datos logísticos.
 
--Identificar tendencias y patrones en grandes conjuntos de datos logísticos.
+Desarrollar modelos predictivos para optimizar la cadena de suministro.
 
--Desarrollar modelos predictivos para optimizar la cadena de suministro.
-
--Crear paneles de control interactivos que facilitan la toma de decisiones basada en datos.
+Crear dashboards interactivos para facilitar la toma de decisiones basada en datos.
 
 Mis Habilidades Técnicas
+Lenguajes: Python, SQL, DAX
 
-Aquí están las herramientas y tecnologías con las que trabajo:
-
-Lenguajes de Programación: Python, SQL
-
-Herramientas de Análisis y Visualización: Power BI, DAX, Tableau
-
-Librerías de Python (Análisis de Datos): Pandas, NumPy, Matplotlib, Seaborn
+Análisis y Visualización: Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn
 
 Control de Versiones: Git, GitHub
 
-Adobe Create Suite 
+Otros: Adobe Creative Suite
 
 Proyectos Destacados
-Me gusta aplicar mis habilidades para resolver problemas del mundo real. Aquí hay algunos de mis proyectos más relevantes:
+Me gusta aplicar mis habilidades para resolver problemas del mundo real. Aquí tienes uno de mis proyectos más relevantes:
 
-📦 NBA STATVISION   
-Descripción: 
+📦 NBA STATVISION: Análisis de rendimiento en la NBA
+Descripción:
+Este proyecto analiza el impacto de las lesiones y las posiciones de juego en el rendimiento de los jugadores de la NBA. El objetivo es proporcionar a los equipos información valiosa para tomar decisiones estratégicas sobre contratos y tácticas, resolviendo el dilema de cómo gestionar jugadores lesionados sin comprometer el éxito deportivo y financiero.
 
-Análisis de Rendimiento en la NBA: El Impacto de Lesiones y Posiciones de Juego
-La NBA es una liga donde cada decisión cuenta. Para equipos, gerentes y analistas, comprender cómo las lesiones y la posición de juego afectan el rendimiento de los jugadores es fundamental para tomar decisiones estratégicas sobre contrataciones, minutos en la cancha y tácticas de juego.
+Objetivos del Análisis:
 
-El Problema: El Dilema de las Lesiones Recurrentes
-Las lesiones de jugadores representan un desafío estratégico y financiero significativo para las franquicias de la NBA. La incertidumbre sobre la recuperación y el rendimiento futuro de un jugador lesionado pone a los equipos en una situación difícil.
+Identificar a los jugadores destacados por posición que han sufrido lesiones.
 
-¿Deberían mantenerlo y arriesgarse a una baja productividad, o es mejor transferirlo para optimizar el presupuesto y la dinámica del equipo?
+Medir la relación entre el rendimiento individual y el desempeño colectivo del equipo.
 
-Para resolver este dilema, es crucial contar con un análisis de datos sólido que permita tomar decisiones informadas, garantizando la sostenibilidad competitiva y económica de la franquicia.
-
-Objetivos del Análisis
-Este proyecto busca analizar en profundidad cómo las lesiones y las diferentes posiciones de juego impactan el rendimiento de los jugadores de la NBA. Los objetivos clave son:
-
-Identificar a los jugadores más destacados por posición que han sufrido lesiones en las últimas temporadas.
-
-Medir la relación entre el rendimiento individual de estos jugadores y el desempeño colectivo de sus equipos.
-
-Resultados e Impacto Esperado
-Los hallazgos de este análisis proporcionarán información valiosa para una mejor gestión de los recursos deportivos. Específicamente, se espera obtener:
-
-Una categorización clara de los tipos de lesiones y su gravedad.
-
-Un análisis comparativo del rendimiento de los jugadores antes y después de una lesión.
-
-Un ranking de los jugadores lesionados más efectivos por posición y en general.
-
-Conclusiones sobre cómo el rendimiento individual de un jugador afecta el éxito de su equipo.
+Crear una categorización clara de lesiones y un ranking de jugadores lesionados más efectivos.
 
 Tecnologías Utilizadas: Python, SQL, Power BI
 
-[**NBA-Statvision**] (https://github.com/ferroblesmdq12/NBA-StatVision/tree/Feli/filtradoArchivos)
+Enlace del proyecto: NBA-Statvision
 
 ¿Cómo Contactarme?
-Siempre estoy abierto a nuevas conexiones y oportunidades. ¡No dudes en contactarme!
+Estoy abierto a nuevas conexiones y oportunidades. ¡No dudes en contactarme!
 
-LinkedIn: (https://www.linkedin.com/in/andr%C3%A9s-felipe-gonz%C3%A1lez-calder%C3%B3n-788724a0/)
+LinkedIn: Andrés Felipe González Calderón
 
 Correo Electrónico: anfelo@gmail.com
+
+Opción 2: Más narrativa y enfocada en el impacto
+Esta versión es un poco más conversacional y se centra en la historia detrás de cada sección, ideal si quieres un tono más personal.
