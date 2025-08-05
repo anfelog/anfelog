@@ -60,7 +60,7 @@ Conclusiones sobre cómo el rendimiento individual de un jugador afecta el éxit
 
 Tecnologías Utilizadas: Python, SQL, Power BI
 
-[Ver Repositorio] https://github.com/ferroblesmdq12/NBA-StatVision/tree/Feli/filtradoArchivos
+[**NBA-Statvision**] (https://github.com/ferroblesmdq12/NBA-StatVision/tree/Feli/filtradoArchivos)
 
 ¿Cómo Contactarme?
 Siempre estoy abierto a nuevas conexiones y oportunidades. ¡No dudes en contactarme!
